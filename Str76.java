@@ -123,7 +123,7 @@ public class Str76 {
 
     public static void main(String[] args)
     {
-        MinimumWindowSubstring obj = new MinimumWindowSubstring();
+        Str76 obj = new Str76();
 
         System.out.println("Test Case 1");
         System.out.println("Input : s = ADOBECODEBANC, t = ABC");
